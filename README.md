@@ -24,17 +24,17 @@
   <tr>
     <td align="center">
       <a href="https://github.com/JaderoChan/GlobalHotkey">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaderoChan&repo=GlobalHotkey" width="300">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaderoChan&repo=GlobalHotkey&theme=github_dark" width="300">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/JaderoChan/mcnbt">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaderoChan&repo=mcnbt" width="300">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaderoChan&repo=mcnbt&theme=github_dark" width="300">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/JaderoChan/Content-aware-image-resizing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaderoChan&repo=Content-aware-image-resizing" width="300">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaderoChan&repo=Content-aware-image-resizing&theme=github_dark" width="300">
       </a>
     </td>
   </tr>
